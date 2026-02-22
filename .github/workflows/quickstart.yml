@@ -3,7 +3,7 @@ name: Quickstart Hello World
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   hello:
